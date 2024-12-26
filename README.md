@@ -9,7 +9,9 @@ This project is a Flutter-based mobile application integrating Google Maps to pr
 
 <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  /> <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo"  />  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="dart logo"  />  <img src="https://skillicons.dev/icons?i=git" height="40" alt="flutter logo"  /> <img src="https://skillicons.dev/icons?i=github" height="40" alt="dart logo"  /> 
 
+## Screenshots
 
+<img src="https://github.com/PINAK-TILAVAT/FLUTTER-X-GOOGLE-MAPS/blob/f7ecda39825e7b896dde374489317d463be6e860/FLUTTER%20X%20GOOGLE%20MAPS%20IMG%20(1).png" alt="Map View" width="200" />      <img src="https://github.com/PINAK-TILAVAT/FLUTTER-X-GOOGLE-MAPS/blob/f7ecda39825e7b896dde374489317d463be6e860/FLUTTER%20X%20GOOGLE%20MAPS%20IMG%20(2).png" alt="Map View" width="200" />
 
 
 
